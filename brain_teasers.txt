@@ -1,0 +1,23 @@
+Question:
+
+There is a prison with 100 prisoners, each in separate cells with no form of contact. 
+There is an area in the prison with a single light bulb in it. Each day, the warden picks one of 
+the prisoners at random, even if they have been picked before, and takes them out to the lobby. 
+The prisoner will have the choice to flip the switch if they want. The light bulb starts off.
+
+When a prisoner is taken into the area with the light bulb, he can also say "Every prisoner has 
+been brought to the light bulb." If this is true all prisoners will go free. However, if a prisoner 
+chooses to say this and it's wrong, all the prisoners will be executed. So a prisoner should only say 
+this if he knows it is true for sure.
+
+Before the first day of this process begins, all the prisoners are allowed to get together to discuss 
+a strategy to eventually save themselves.
+
+What strategy could they use to ensure they will go free?
+
+
+Solution:
+
+Only allow one prisoner to turn the light bulb off and all of the others turn it on if they have never 
+turned it on before. If they have turned it on before they do nothing. The prisoner that can turn it off 
+then knows they have all been there and saves them all when he has turned it off 99 times.
