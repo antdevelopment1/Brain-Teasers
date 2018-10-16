@@ -37,6 +37,7 @@ on the second and vice versa). If they both win one toss (a tie) out of the two,
 until one of them wins both tosses.
 
 Question:
+
 1. The Brit lives in the red house.
 2. The Swede keeps dogs as pets.
 3. The Dane drinks tea.
@@ -56,5 +57,11 @@ Question:
 Question: 
 What day comes three days after the day which comes two days after the day which comes immediately after the day which comes two days after Monday.
 
-Solution : Tuesday
+Solution: 
+Tuesday
 
+Question:
+If Teresa's daughter is my daughter's mother, what am I to Teresa?
+
+Soultion:
+Daughter
