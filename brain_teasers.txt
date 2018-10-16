@@ -53,3 +53,8 @@ Question:
 14. The Norwegian lives next to the blue house.
 15. The owner who smokes Blends lives next to the one who drinks water.
 
+Question: 
+What day comes three days after the day which comes two days after the day which comes immediately after the day which comes two days after Monday.
+
+Solution : Tuesday
+
