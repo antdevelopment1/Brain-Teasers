@@ -89,4 +89,10 @@ assess, potato, dresser, uneven?
 Solution:
 Take the first letter of each word and place it at the end. It will spell the same word backwards.
 
+Question:
+What makes this number unique -- 8,549,176,320?
+
+Solution:
+It contains each number, zero through nine, in alphabetical order.
+
 
