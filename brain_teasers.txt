@@ -73,7 +73,7 @@ The man calls his dog, who immediately crosses the river
 without getting wet and without using a bridge or a boat. 
 How did the dog do it?
 
-Internet Solution:
+Solution:
 The river was frozen.
 
 Question:
@@ -94,5 +94,22 @@ What makes this number unique -- 8,549,176,320?
 
 Solution:
 It contains each number, zero through nine, in alphabetical order.
+
+Question:
+
+You’re standing in a hallway with three light switches on the wall,
+each of which turns on a different lamp inside a closed room. You 
+can’t see inside the room, and you can’t open the door except to 
+enter the room. You can enter the room only once, and when you do, 
+all the lamps must be turned off. How can you tell which switch 
+turns on which lamp?
+
+Solution:
+Turn on the right switch and leave it on for two minutes. After two 
+minutes, turn on the middle switch and leave it on for one minute. 
+When that minute is up, turn off both switches and enter the room. 
+One light bulb will be hot (1st switch) and one will be warm 
+(2nd switch). The cold bulb will correspond to the switch you didn’t 
+turn on.
 
 
