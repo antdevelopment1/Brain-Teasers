@@ -82,4 +82,11 @@ A sundial has the fewest moving parts of any timepiece. Which has the most?
 Solution:
 An hourglass, with thousands of grains of sand.
 
+Question:
+What is unusual about the following words: revive, banana, grammar, voodoo, 
+assess, potato, dresser, uneven?
+
+Solution:
+Take the first letter of each word and place it at the end. It will spell the same word backwards.
+
 
