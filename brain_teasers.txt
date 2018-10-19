@@ -112,4 +112,12 @@ One light bulb will be hot (1st switch) and one will be warm
 (2nd switch). The cold bulb will correspond to the switch you didn’t 
 turn on.
 
+Question:
+Guess the next three letters in the series.
+GTNTL .......
+
+Solution:
+I, T, S -- the first letter of every word in the sentence.
+
+
 
