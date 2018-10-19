@@ -119,5 +119,12 @@ GTNTL .......
 Solution:
 I, T, S -- the first letter of every word in the sentence.
 
+Question:
+A boy is walking down the road with a doctor. While the boy is the doctor's
+son, the doctor isn't the boy's father. Then who is the doctor?
+
+Solution:
+The doctor is the boy's mother.
+
 
 
