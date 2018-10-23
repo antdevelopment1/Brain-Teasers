@@ -162,6 +162,11 @@ What can point in every direction but can't reach the destination by itself.
 Solution:
 Your finger, compass.
 
+Question:
+A sharpshooter hung up his hat and put on a blindfold. He then walked 100 yards, turned around, and shot a bullet
+through his hat. The blindfold was a perfectly good one, completely blocking the man's vision. How did he manage this?
 
+Solution:
+He hung is hat on the barrel of his gun.
 
 
