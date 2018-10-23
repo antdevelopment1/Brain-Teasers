@@ -169,4 +169,12 @@ through his hat. The blindfold was a perfectly good one, completely blocking the
 Solution:
 He hung is hat on the barrel of his gun.
 
+Question:
+You are on an island in the middle of a lake. The lake is in a remote part of the country and there has never been a 
+bridge connecting the island to the mainland. Every day a tractor and wagon gives hay rides around the island. Puzzled
+as to how the tractor had gotten onto the island, you ask around and find out that the tractor was not transported to 
+the island by boat or by air. Nor was it built on the island. Explain how the tractor got there?
+
+Solution:
+It was driven over in winter, when the lake was frozen.
 
