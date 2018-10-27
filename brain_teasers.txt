@@ -192,12 +192,14 @@ Question:
 Which seven-letter word contains dozens of letters?
 
 Solution:
+The answer is MAILBOX
 
 Question:
 Kings and queens may cling to power, and the jester’s got his call,
 But, as you may all discover, the common one outranks them all.
 
 Solution:
+The answer is THE ACE IN A DECK OF CARDS
 
 Question:
 You use a knife to slice my head,
@@ -206,14 +208,17 @@ And weep beside me when I’m dead.
 What am I?
 
 Solution:
+The answer is ONION
 
 Question:
 You throw away the outside and cook the inside. Then you eat the outside 
 and throw away the inside. What do you eat?
 
 Solution:
+The answer is CORN
 
 Question:
 What’s black when you get it, red when you use it, and white when you’re all through with it?
 
 Solution:
+The answer is CHARCOAL.
