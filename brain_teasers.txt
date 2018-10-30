@@ -240,3 +240,15 @@ How far can a rabbit run into the woods?
 
 Solution:
 Halfway. After that, he is running out of the woods.
+
+Question:
+In a year, there are 12 months. Seven months have 31 days. How many months have 28 days?
+
+Solution:
+They all do.
+
+Question:
+What are the next three letters in the following sequence?J, F, M, A, M, J, J, A, __, __, __
+
+Solution:
+S, O, N. The sequence is first letter of the months of the year. September, October, and November are the next in the sequence.
