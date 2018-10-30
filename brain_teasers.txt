@@ -283,3 +283,12 @@ A plane crashes on the border of the U.S. and Canada. Where do they bury the sur
 
 Solution:
 We do not bury survivors 
+
+Question:
+A family lives in a large tower apartment building, 10 floors high. Every day their son 
+takes the elevator from the family’s apartment on the 10th floor to the ground floor and 
+goes to school. When he returns in the afternoon, he uses the elevator to get to the fifth 
+floor, and then uses the stairs for the remaining five floors. Why?
+
+Solution:
+He cannot reach the elevator buttons above the fifth floor
