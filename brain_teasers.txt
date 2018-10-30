@@ -265,3 +265,9 @@ Before Mt. Everest was discovered, what was the highest mountain in the world?
 
 Solution:
 Mt. Everest
+
+Question:
+Which is heavier? A pound of feathers or a pound of rocks?
+
+Solution:
+Both weigh a pound
