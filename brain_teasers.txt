@@ -252,3 +252,16 @@ What are the next three letters in the following sequence?J, F, M, A, M, J, J, A
 
 Solution:
 S, O, N. The sequence is first letter of the months of the year. September, October, and November are the next in the sequence.
+
+Question:
+Jimmy’s mother had four children. She named the first Monday. She named the second Tuesday, and she named the third Wednesday. 
+What is the name of the fourth child?
+
+Solution:
+Jimmy
+
+Question:
+Before Mt. Everest was discovered, what was the highest mountain in the world?
+
+Solution:
+Mt. Everest
