@@ -292,3 +292,11 @@ floor, and then uses the stairs for the remaining five floors. Why?
 
 Solution:
 He cannot reach the elevator buttons above the fifth floor
+
+Question:
+You're escaping a labyrinth, and there are three doors in front of you. The door on the left 
+leads to a raging inferno. The door in the center leads to a deadly assassin. The door on the 
+right leads to a lion that hasn't eaten in three months. Which door do you choose?
+
+Solution:
+The lion would be dead after not eating for three months.
