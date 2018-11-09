@@ -300,3 +300,12 @@ right leads to a lion that hasn't eaten in three months. Which door do you choos
 
 Solution:
 The lion would be dead after not eating for three months.
+
+Question:
+An old man dies, leaving behind two sons. In his will, he orders his sons to race with their
+horses, and the one with the slower horse will receive his inheritance. The two sons race, 
+but since they're both holding their horses back, they go to a wise man and ask him what they 
+should do. After that, the brothers race again — this time at full speed. What did the wise man tell them?
+
+Solution:
+After they switch horses, whoever wins the race will get the inheritance because they still technically own the losing (i.e., slower) horse.
