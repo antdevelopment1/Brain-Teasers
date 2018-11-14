@@ -309,3 +309,12 @@ should do. After that, the brothers race again — this time at full speed. What
 
 Solution:
 After they switch horses, whoever wins the race will get the inheritance because they still technically own the losing (i.e., slower) horse.
+
+Question: 
+There are six haystacks in one corner, a third as many in another corner, four times as many in a third corner, and eight in the fourth corner. 
+While throwing the hay into a single pile in the center of his field, the farmer accidentally let one of the stacks fall to the floor and scatter 
+everywhere. How many haystacks did the farmer end up with?
+
+Solution:
+Just 1
+He piled all of his hay in the center of the field!
